@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Europa on GOEST</title>
+    <link>https://localhost:1313/categories/europa/</link>
+    <description>Recent content in Europa on GOEST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 11 Apr 2019 12:40:56 +0100</lastBuildDate>
+    
+	<atom:link href="https://localhost:1313/categories/europa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Veranstaltung des Integrationsrates Göttingen</title>
+      <link>https://localhost:1313/post/2019-04-11-veranstaltungintegrationsrat/</link>
+      <pubDate>Thu, 11 Apr 2019 12:40:56 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-04-11-veranstaltungintegrationsrat/</guid>
+      <description>Europa / Europawahl 2019 Veranstaltung des Integrationsrates 23.4.19 / Neues Rathaus, Ratssaal Welche Europäische Union wollen wir? Schon in den 90er Jahren waren die Themen Asyl und Einwanderung der ideologische Treibstoff, der von Rechtspopulisten, wie heute von der AFD für ihre Ziele genutzt wird. Die AFD profitiert dabei von der sich verschärfenden Einwanderungsdebatte, die sich rasch um die steigende Zahl von Flüchtlingen drehte und zunehmend in einer offen rassistische Abwehr von Flüchtlingen bestand.</description>
+    </item>
+    
+    <item>
+      <title>Wahlergebnisse für die Stadt Göttingen</title>
+      <link>https://localhost:1313/post/2019-04-11-wahlergebnisseg%C3%B6ttingen/</link>
+      <pubDate>Thu, 11 Apr 2019 12:40:56 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-04-11-wahlergebnisseg%C3%B6ttingen/</guid>
+      <description> Europawahlen Wahlergebnisse für die Stadt Göttingen Wahlkreis 152    2014 Stimmen % l 2009 Stimmen % l 2004 Stimmen %     CDU 32198 31,6 l CDU 27533 33,3 l CDU 11504 30,2   SPD 35475 34,8 l SPD 23166 28,0 l SPD 9772 25,7   GRÜNE 15070 14,8 l GRÜNE 15052 18,2 l GRÜNE 10706 28,1   FDP 2406 2,4 l FDP 7933 9,6 l FDP 2474 6,5   DieLinke 5631 5,5 l DieLinke 4108 5,0 l PDS 1389 3,6   DKP 107 0,1 l DKP 103 0,1 l DKP 124 0,3   Piraten 1582 1,6 l Piraten 2904 2,0 l - - -   AfD 5017 4,9 l - - - l - - -   NPD 492 0,5 l - - - l NPD 334 0,9   REP 93 0,1 l REP 417 0,5 l REP 163 0,4    </description>
+    </item>
+    
+    <item>
+      <title>Veranstaltung des DGB zur Europawahl</title>
+      <link>https://localhost:1313/post/2019-04-01-veranstaltungdgb/</link>
+      <pubDate>Mon, 01 Apr 2019 12:40:56 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-04-01-veranstaltungdgb/</guid>
+      <description>DGB Veranstaltung zur Europawahl DGB lädt zu politischen Tischgesprächen Diese Wahl ist emotional: Es geht um das Fortbestehen und die Zukunft des Projektes Europa nach dem Wahltag zum Europäischen Parlament am 26. Mai 2019. Und Emotionen gehen bekanntlich durch den Magen.
+Anlässlich der EU-Wahl lädt der DGB Kreisverband Göttingen am Dienstag, 9. April um 18:00 Uhr, zum Kochen, Speisen und Diskutieren mit Kandidatin Viola von Cramon (Bündnis 90/die GRÜNEN) und Kandidat Harm Adam (CDU) ins</description>
+    </item>
+    
+  </channel>
+</rss>

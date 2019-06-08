@@ -1,0 +1,22 @@
+---
+layout:        events
+title:         "Green Book"
+subtitle:      "USA 2018, 130 Min., OmU und DF  FSK: 6"
+date:          2019-05-24TKeineVorstellungen:00:00+01:00
+publishdate:   2019-05-14T00:00:00+01:00
+author:        "Lumiere"
+place:         "Lumiere"
+URL:           "/2019/05/24/KeineVorstellungen/00/lumiere"
+image:         "lumiere-icon.png"
+locURL:         "http://www.lumiere.de/"
+---
+
+Green Book
+===========
+
+USA 2018, 130 Min., OmU und DF  FSK: 6
+-----------
+
+Regie: Peter Farrelly, D.: Viggo Mortensen, Mahershala Ali, Inhalt: Die USA im Jahr 1962: Dr. Don Shirley ist ein begnadeter, schwarzer  Pianist und geht auf eine Tournee, die ihn aus dem verhältnismäßig toleranten New York bis in die rassistisch geprägten amerikanischen Su?dstaaten fu?hrt. Als Fahrer engagiert er den Italo-Amerikaner Tony Lip, der sich bislang mit Gelegenheitsjobs u?ber Wasser gehalten hat. Während der langen Fahrt, bei der sie sich am sogenannten Negro Motorist Green Book' orientieren, in dem die wenigen Unterku?nfte und Restaurants aufgelistet sind, in denen auch schwarze Gäste willkommen sind, entwickelt sich langsam eine Freundschaft zwischen den beiden sehr gegensätzlichen Männern.Publikumswirksames politisches Kino, das ausgesprochen vergnüglich und bewegend ausfällt, soeben ausgezeichnet mit drei Oscars als Bester Film, für das Beste Drehbuch und für Mahershala Ali als Bester Nebendarsteller.
+
+Mehr Informationen auf der [Webseite des Veranstalters](http://www.lumiere.de/19/05/green.htm)

@@ -1,0 +1,111 @@
+---
+title: "Theme Dokumentation für GOEST unter Hugo"
+date: 2019-04-17T10:02:53+01:00
+draft: false
+---
+
+* Theme Dokumentation für GOEST unter Hugo
+
+** Themen
+*** Suchen von Begriffen im Dateibaum
+- grep -Rin SuchBegriff Directory
+
+*** "categories" und "tags" Übersichts-Seitengestaltung:
+- in ./themes/hugo-theme-introduction/layouts/_default/terms.html
+- nun mit Überschrift und Liste der Einzelelemente
+
+*** Navigationsleiste
+- in ./layouts/partials/nav.html
+- nicht alle categories in Nav-Leiste: 
+durch kommentieren von {{ range .Site.Params.addtional_menus }}
+- Festlegung config.toml durch 
+  params.additional_menus
+
+*** mapping von Title-Strings in Front Matter zu URLs
+- in verschiedenen ./layouts/*/*/*html
+- siehe Funktion urlize
+
+*** Seiten-Header-Gestaltung
+- in ./layouts/_default/baseof.html
+- individuelles background-image: .Params.image geht vor .Site.Params.image
+
+** Listen-Seiten
+- Steuerung in ./layouts/_default/list.html für allgemeine Kurzdarstellung
+- und ./layouts/partials/post_list.html sonst
+
+*** Unterscheidung von event und post Listen
+-     {{ if ( eq .File.Dir "event/") }} ... {{ else }} ...
+
+
+*** Auswahl und Anzahl der events
+- Steuerung mittels publishdate im Front-Matter aller event Dateien (python)
+ 
+*** Gestaltung der Textauswahl beim Text-Trailer
+- orig: {{ ( substr ( plainify .Summary | safeHTML )  0 240 ) }} in ./layouts/_default/list.html
+nutzt .Summary und nimmt davon die ersten 240 Zeichen.
+- besser wie: {{ with .Description }} {{ . }} {{ else }} {{ .Summary}} {{ end }} in ./layouts/partials/post_list.html
+nutzt Abbildung .Params.description auf .Description
+
+** Style and CSS
+*** kaskadiert (z.B. in public/index.html): 
+- <link rel="stylesheet" href="/css/iDisqus.min.css"/>
+- <link rel="stylesheet" href="/css/bootstrap.min.css">
+- <link rel="stylesheet" href="/css/hux-blog.min.css">
+- <link rel="stylesheet" href="/css/syntax.css">
+- <link rel="stylesheet" href="/css/custom.css">
+
+*** Änderungen in ./public/css/custom.css
+**** background: 
+- body { ...  background: #f8f8f8; ... } (statt background: #38312f; Grau)
+
+**** text: color: #4d4d4d; (inkl. h1, h2, h3, h4, h5, h6, ...)
+**** links:  a:link {  color: #38312f;  }
+**** font_size hauptsächlich individuell 
+- in layouts/_default/list.html und layouts/partials/sidebar.html
+als style parameter
+**** .sidebar-container
+- musste aus hux-blog.min.css übernommen werden (in cleanwhite undefiniert)
+- neuer Wert für Schriften: color:1f1f1f; (vorher bfbfbf)
+
+**** table (überarbeitet in cleanwhite)
+- siehe table Einträge
+
+**** Überschriften-Balken
+hängt von der Breite des Browsers ab
+
+** Ankündigungs-Zeitraum für Veranstaltungen
+*** mittels publishdate im Front-Matter aller event Dateien
+*** festgelegt über Python Skript event.py
+
+** noch offen
+*** Suche
+****  Auswahl Such-Engine (Elasticsearch, Google, hugo-lunr: lokale engine, ?) 
+****  Suche einrichten
+*** Automatisierung
+
+****  automatische Seiten-Erstellung aus gegebenem Text
+****  Erweiterung der Veranstaltungs-Treiber
+
+*** Veranstaltungen
+
+****  Inhaltsverzeichnis für Veranstaltungen
+****  recurring events
+**** [x] heutige Veranstaltungen in der Sidebar
+
+*** externe Formate
+
+****  Video
+****  Twitter einbetten? Möglichst einzelne ausgewählte Tweets
+****  ?
+
+***  Seitengestaltung
+
+****  Einbetten von Bildern bei Listen-Darstellung 
+****  Banner-Bilder Steuerung allgemein und bei Listen-Darstellung
+****  mehr Referenz am Ende der Post-Listen-Items (anstelle der Referenz des gesamten Textes  
+****  GOEST Home-Button zwischen Vor und Zurück
+# members
+
+[[ members ]]
+
+funktionert nicht

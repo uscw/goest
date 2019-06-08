@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nachrichten on GOEST</title>
+    <link>https://localhost:1313/post/</link>
+    <description>Recent content in Nachrichten on GOEST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pressemitteilung: Aktionstage zu den Klimawahlen</title>
+      <link>https://localhost:1313/post/2019-05-07-19-58-pressemitteilungaktionstagezudenklimawahlen-goest/</link>
+      <pubDate>Tue, 07 May 2019 19:58:00 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-05-07-19-58-pressemitteilungaktionstagezudenklimawahlen-goest/</guid>
+      <description>Pressemitteilung: Aktionstage zu den Klimawahlen Fridays for Future Ortsgruppe Göttingen Am Dienstag, den 07.05.2019 startete eine Gruppe junger Menschen, unter anderem Mitglieder der Fridays for Future Ortsgruppe Göttingen, Aktionstage zu den Klimawlen. Ziel der Gruppe ist es, möglichts viele Menschen zur nächsten Demonstration am Freitag, den 24.05. und zu den Wahlen für das EU-Parlament am darauffolgendenSonntag zu mobilisieren.
+Eine Aktivistin erläutert:
+ &amp;ldquo;Das neue EU-Parlament wird entscheidend für die Klimapolitik der Mitgliedsstaaten sein.</description>
+    </item>
+    
+    <item>
+      <title>Theme Dokumentation für GOEST unter Hugo</title>
+      <link>https://localhost:1313/post/theme_docs/</link>
+      <pubDate>Wed, 17 Apr 2019 10:02:53 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/theme_docs/</guid>
+      <description>Theme Dokumentation für GOEST unter Hugo Themen Suchen von Begriffen im Dateibaum  grep -Rin SuchBegriff Directory  &#34;categories&#34; und &#34;tags&#34; Übersichts-Seitengestaltung:  in ./themes/hugo-theme-introduction/layouts/_default/terms.html nun mit Überschrift und Liste der Einzelelemente  Navigationsleiste  in ./layouts/partials/nav.html nicht alle categories in Nav-Leiste:  durch kommentieren von {{ range .Site.Params.addtional_menus }} Festlegung config.toml durch  params.additional_menus  mapping von Title-Strings in Front Matter zu URLs  in verschiedenen ./layouts/*/*/*html siehe Funktion urlize  Seiten-Header-Gestaltung  in .</description>
+    </item>
+    
+    <item>
+      <title>Veranstaltung des Integrationsrates Göttingen</title>
+      <link>https://localhost:1313/post/2019-04-11-veranstaltungintegrationsrat/</link>
+      <pubDate>Thu, 11 Apr 2019 12:40:56 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-04-11-veranstaltungintegrationsrat/</guid>
+      <description>Europa / Europawahl 2019 Veranstaltung des Integrationsrates 23.4.19 / Neues Rathaus, Ratssaal Welche Europäische Union wollen wir? Schon in den 90er Jahren waren die Themen Asyl und Einwanderung der ideologische Treibstoff, der von Rechtspopulisten, wie heute von der AFD für ihre Ziele genutzt wird. Die AFD profitiert dabei von der sich verschärfenden Einwanderungsdebatte, die sich rasch um die steigende Zahl von Flüchtlingen drehte und zunehmend in einer offen rassistische Abwehr von Flüchtlingen bestand.</description>
+    </item>
+    
+    <item>
+      <title>Wahlergebnisse für die Stadt Göttingen</title>
+      <link>https://localhost:1313/post/2019-04-11-wahlergebnisseg%C3%B6ttingen/</link>
+      <pubDate>Thu, 11 Apr 2019 12:40:56 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-04-11-wahlergebnisseg%C3%B6ttingen/</guid>
+      <description> Europawahlen Wahlergebnisse für die Stadt Göttingen Wahlkreis 152    2014 Stimmen % l 2009 Stimmen % l 2004 Stimmen %     CDU 32198 31,6 l CDU 27533 33,3 l CDU 11504 30,2   SPD 35475 34,8 l SPD 23166 28,0 l SPD 9772 25,7   GRÜNE 15070 14,8 l GRÜNE 15052 18,2 l GRÜNE 10706 28,1   FDP 2406 2,4 l FDP 7933 9,6 l FDP 2474 6,5   DieLinke 5631 5,5 l DieLinke 4108 5,0 l PDS 1389 3,6   DKP 107 0,1 l DKP 103 0,1 l DKP 124 0,3   Piraten 1582 1,6 l Piraten 2904 2,0 l - - -   AfD 5017 4,9 l - - - l - - -   NPD 492 0,5 l - - - l NPD 334 0,9   REP 93 0,1 l REP 417 0,5 l REP 163 0,4    </description>
+    </item>
+    
+    <item>
+      <title>Veranstaltung des DGB zur Europawahl</title>
+      <link>https://localhost:1313/post/2019-04-01-veranstaltungdgb/</link>
+      <pubDate>Mon, 01 Apr 2019 12:40:56 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-04-01-veranstaltungdgb/</guid>
+      <description>DGB Veranstaltung zur Europawahl DGB lädt zu politischen Tischgesprächen Diese Wahl ist emotional: Es geht um das Fortbestehen und die Zukunft des Projektes Europa nach dem Wahltag zum Europäischen Parlament am 26. Mai 2019. Und Emotionen gehen bekanntlich durch den Magen.
+Anlässlich der EU-Wahl lädt der DGB Kreisverband Göttingen am Dienstag, 9. April um 18:00 Uhr, zum Kochen, Speisen und Diskutieren mit Kandidatin Viola von Cramon (Bündnis 90/die GRÜNEN) und Kandidat Harm Adam (CDU) ins</description>
+    </item>
+    
+    <item>
+      <title>Todos für GOEST unter Hugo</title>
+      <link>https://localhost:1313/post/todo-list/</link>
+      <pubDate>Thu, 07 Mar 2019 12:16:53 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/todo-list/</guid>
+      <description>Todos für GOEST unter Hugo Liste mit Todos Suche Auswahl Such-Engine (Elasticsearch, Google, hugo-lunr: lokale engine, ?) Suche einrichten  Automatisierung automatische Seiten-Erstellung aus gegebenem Text Erweiterung der Veranstaltungs-Treiber  Veranstaltungen Inhaltsverzeichnis für Veranstaltungen recurring events heutige Veranstaltungen in der Sidebar  externe Formate Video Twitter einbetten? Möglichst einzelne ausgewählte Tweets ?  Seitengestaltung Einbetten von Bildern bei Listen-Darstellung Banner-Bilder Steuerung allgemein und bei Listen-Darstellung mehr Referenz am Ende der Post-Listen-Items (anstelle der Referenz des gesamten Textes</description>
+    </item>
+    
+    <item>
+      <title>Göttinger Friedenspreis: Konstantin Wecker</title>
+      <link>https://localhost:1313/post/2019-03-06-g%C3%B6ttingerfriedenspreis-konstantinwecker/</link>
+      <pubDate>Mon, 04 Mar 2019 20:40:56 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-03-06-g%C3%B6ttingerfriedenspreis-konstantinwecker/</guid>
+      <description>Göttinger Friedenspreis  Konstantin Wecker: Dankbar, dass es Organisation wie die “Jüdische Stimme für gerechten Frieden in Nahost” gibt
+ Pressemitteilung  Sehr geehrte Frau Prof. Dr. Beisiegel, sehr geehrter Herr Köhler, sehr geehrter Herr Hald, für mich als Preisträger des Göttinger Friedenspreises sind die Vorwürfe, dass es sich bei der Organisation &amp;ldquo;Jüdische Stimme für gerechten Frieden in Nahost&amp;rdquo; um eine antisemitische Bewegung handeln solle, nicht nachvollziehbar.
+Wie könnte ich, ein Künstler, der sich in vielen Texten und Liedern gegen Antisemitismus schon immer engagiert hat, es wagen, eine engagierte Gruppe jüdischer(!</description>
+    </item>
+    
+    <item>
+      <title>Göttinger Friedenspreis: Fanny-Michaela Reisin</title>
+      <link>https://localhost:1313/post/2019-03-02-g%C3%B6ttingerfriedenspreis-fannymichaelareisin/</link>
+      <pubDate>Thu, 28 Feb 2019 21:16:36 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-03-02-g%C3%B6ttingerfriedenspreis-fannymichaelareisin/</guid>
+      <description>Göttinger Friedenspreis Cui bono - Wem nützt es? Berlin, 28.02.19
+offener Brief an die Präsidentin der Georg-August-Universität Göttingen Frau Prof. Dr. Ulrike Beisiegel
+Sehr geehrte Präsidentin,liebe Ulrike,
+mein Name ist Fanny-Michaela Reisin, Sie und ich wirkten während der 80er und 90er Jahre gemeinsam - vielleicht erinnern Sie es noch - in der wissenschaftlichen Friedensbewegung. Sie als Biochemikerin, ich als Informatikerin. Anfang der 90er konzipierten wir den internationalen Friedens- und Kulturkongress &amp;ldquo;CHALLENGES – Science and Peace in a Rapidly Changing Environment&amp;rdquo; und brachten mit internationalen Teilnehmenden die Vereinigung INES (International Network of Engineers and Scientists for Global Responsibility) auf den Weg.</description>
+    </item>
+    
+    <item>
+      <title>Göttinger Friedenspreis: Kai Ambos</title>
+      <link>https://localhost:1313/post/2019-03-02-g%C3%B6ttingerfriedenspreis-kaiambos/</link>
+      <pubDate>Thu, 21 Feb 2019 20:40:56 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-03-02-g%C3%B6ttingerfriedenspreis-kaiambos/</guid>
+      <description>Göttinger Friedenspreis offener Brief, 21.2.2019 An
+den Oberbürgermeister der Stadt Göttingen, die Präsidentin der Uni Göttingen, den Vorstandsvorsitzenden der Sparkasse Göttingen, cc Stiftung Dr. Roland Röhl und Herrn Zumach, alle per e-mail
+Sehr geehrter Herr Köhler, sehr geehrte Frau Kollegin Beisiegel, sehr geehrter Herr Hald,
+Ich kann Ihren Boykott bezüglich der Verleihung des Göttinger Friedenspreise an die „Jüdische Stimme“ nicht nachvollziehen. Das Verhalten der Universitätsleitung erinnert mich fatal an die Vorgänge um die Nakba-Ausstellung im WiSe 2016&amp;frasl;17.</description>
+    </item>
+    
+    <item>
+      <title>Göttinger Friedenspreis: Andreas Zumach</title>
+      <link>https://localhost:1313/post/2019-03-02-g%C3%B6ttingerfriedenspreis-andreaszumach/</link>
+      <pubDate>Wed, 20 Feb 2019 20:40:56 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-03-02-g%C3%B6ttingerfriedenspreis-andreaszumach/</guid>
+      <description>Göttinger Friedenspreis  Feiger und unehrlich begründeter Rückzug von Universität,Stadt und Sparkasse vom Göttinger Friedenspreis für die „Jüdische Stimme für gerechten Frieden in Nahost“ Preisverleihung findet dennoch statt / Spenden erforderlich
+ Pressemitteilung  Die drei institutionellen Unterstützer des Göttinger Friedenspreises- Universität, Stadt und Stadtsparkasse -haben dem Druck von Falschbehauptungen, Verleumdungen und Rufmord gegen den diesjährigen Preisträger „Jüdische Stimme für gerechten Frieden in Nahost“ nachgegeben und ihre Unterstützung für die/Teilnahme an der Verleihungsfeier am 9.</description>
+    </item>
+    
+    <item>
+      <title>Göttinger Friedenspreis: Norman Paech</title>
+      <link>https://localhost:1313/post/2019-03-02-g%C3%B6ttingerfriedenspreis-normanpaech/</link>
+      <pubDate>Wed, 20 Feb 2019 20:40:56 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-03-02-g%C3%B6ttingerfriedenspreis-normanpaech/</guid>
+      <description>Göttinger Friedenspreis offener Brief Sehr geehrte Frau Beisiegel, sehr geehrte Herren Köhler und Hald,
+Ihre definitive Entscheidung, sich von der Unterstützung des Göttinger Friedenspreises zurückzuziehen, lässt mir keine Ruhe, und schon die gewählte Anrede bereitet mir Schwierigkeiten.
+Sie verweigern sich all den Argumenten, die die Entscheidung der Jury bestätigen, und schlagen sich auf die Seite der nachweislich falschen und höchst dubiosen Vorwürfe einiger notorischer Protestanten, die gegen jede kritische Diskussion des Palästinakonfliktes intervenieren.</description>
+    </item>
+    
+    <item>
+      <title>Beispiele für Hugo Markdown Nutzung</title>
+      <link>https://localhost:1313/post/my-first-post/</link>
+      <pubDate>Wed, 06 Feb 2019 15:16:36 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/my-first-post/</guid>
+      <description>Markdown Syntax Markdown Syntax Guide
+This is a huge header for test-site-0 this is a smaller header Horizontal Rule
+Just put three or more *&amp;rsquo;s or -&amp;rsquo;s on a line:
+ lore ipsum   lore ipsum  lore ipsum   Links Inline My favorite search engine is Duck Duck Go
+here&amp;rsquo;s my link
+Image with annotation ;-)
+reference to static files (in /static/)
+Quotation  1st You can use italic or lists inside them also.</description>
+    </item>
+    
+    <item>
+      <title>Ackerbesetzung in Neu-Eichenberg gegen Logistikgebiet</title>
+      <link>https://localhost:1313/post/2019-03-02-ackerbesetzung-neueichenberg/</link>
+      <pubDate>Fri, 25 Jan 2019 08:50:34 +0100</pubDate>
+      
+      <guid>https://localhost:1313/post/2019-03-02-ackerbesetzung-neueichenberg/</guid>
+      <description>Symbolische Ackerbesetzung gegen Neubau von Logistikgebiet in Neu-Eichenberg Klimaaktivist*innen klettern auf 8 Meter hohen Tripod und kündigen Widerstand an Datum: Fri, 25 Jan 2019 08:50:34 +0100 Von: der Acker bleibt! klima-aktion@riseup.net An: klima-aktion@riseup.net
+8 Meter hoher Dreibein errichtet und besetzt +++ Signal in Richtung Dietz AG +++ Ankündigung von zivilem Ungehorsam +++ Aktion soll für 12 Stunden andauern
+/Freitag 25.01., Neu-Eichenberg/ In der Nacht errichteten Klimaaktivist*innen einen circa 8 Meter hohen Dreibein (Tripod) auf dem geplanten Baugelände des Logistikgebiets in Neu Eichenberg.</description>
+    </item>
+    
+    <item>
+      <title>Clean White Theme for Hugo</title>
+      <link>https://localhost:1313/post/readme/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/readme/</guid>
+      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
+    </item>
+    
+    <item>
+      <title>如何配置docker使用HTTP代理</title>
+      <link>https://localhost:1313/2018/03/13/use-docker-behind-http-proxy/</link>
+      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/2018/03/13/use-docker-behind-http-proxy/</guid>
+      <description>&lt;h2 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h2&gt;
+
+&lt;h3 id=&#34;设置docker使用http-proxy&#34;&gt;设置docker使用http proxy&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo /etc/default/docker
+
+export http_proxy=&amp;quot;http://127.0.0.1:3128/&amp;quot;
+export https_proxy=&amp;quot;http://127.0.0.1:3128/&amp;quot;
+export HTTP_PROXY=&amp;quot;http://127.0.0.1:3128/&amp;quot;
+export HTTPS_PROXY=&amp;quot;http://127.0.0.1:3128/&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>采用Istio实现灰度发布(金丝雀发布)</title>
+      <link>https://localhost:1313/2017/11/08/istio-canary-release/</link>
+      <pubDate>Wed, 08 Nov 2017 15:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/2017/11/08/istio-canary-release/</guid>
+      <description>灰度发布（又名金丝雀发布）介绍 当应用上线以后，运维面临的一大挑战是如何能够在不影响已上线业务的情况下进行升级。做过产品的同学都清楚，不管在发</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://localhost:1313/post/goest_news20190513/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/goest_news20190513/</guid>
+      <description>Pressemitteilungen an goest   Startseite Artikel  redaktion@goest.deVeranstaltungen&amp;nbsp;Impressum 
+ Fortlaufende News
+Presseerklärungen- und -mitteilungen die die Redaktion erreichten und die wir weitgehend&amp;nbsp; übernehmen, evtl. mit (...) gekennzeichnet kürzen . Ggf. werden Pressemitteilungen auch direkt auf Themenseiten eingearbeitet.
+Externe News-Listen zu Göttingen:
+&amp;gt;&amp;gt; Polizei-Pressemitteilungen &amp;gt;&amp;gt; Stadtradio News der Region
+&amp;gt;&amp;gt; Stadtverwaltung-News 
+  &amp;nbsp;
+  Die Grünen, Vorstand des Stadtverbandes 3.5.19
+Wohnungspolitische Maßnahmen für Grone 
+Am Beispiel der Adler Real Estate, die in Grone ca.</description>
+    </item>
+    
+    <item>
+      <title>This is a another content file in ORG mode</title>
+      <link>https://localhost:1313/post/my-third-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/my-third-post/</guid>
+      <description>Top level headline Second level Third level some text
+Third level more text
+Another top level headline ----------</description>
+    </item>
+    
+    <item>
+      <title>This is a content file in ORG mode</title>
+      <link>https://localhost:1313/post/my-second-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/post/my-second-post/</guid>
+      <description>Top level headline Second level Third level some text
+Third level more text
+Another top level headline ----------</description>
+    </item>
+    
+  </channel>
+</rss>

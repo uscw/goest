@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Istio on GOEST</title>
+    <link>https://localhost:1313/tags/istio/</link>
+    <description>Recent content in Istio on GOEST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 08 Nov 2017 15:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://localhost:1313/tags/istio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>采用Istio实现灰度发布(金丝雀发布)</title>
+      <link>https://localhost:1313/2017/11/08/istio-canary-release/</link>
+      <pubDate>Wed, 08 Nov 2017 15:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/2017/11/08/istio-canary-release/</guid>
+      <description>灰度发布（又名金丝雀发布）介绍 当应用上线以后，运维面临的一大挑战是如何能够在不影响已上线业务的情况下进行升级。做过产品的同学都清楚，不管在发</description>
+    </item>
+    
+  </channel>
+</rss>

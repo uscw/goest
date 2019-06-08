@@ -1,0 +1,15 @@
+---
+title: "This is a content file in ORG mode"
+markup: "org"
+---
+
+* Top level headline
+** Second level
+*** Third level
+    some text
+
+*** Third level
+    more text
+
+----------
+* Another top level headline
