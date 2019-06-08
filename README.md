@@ -1,1 +1,1 @@
-# GOEST Redaktionsseiten 
+# GOEST Redaktionsseiten
