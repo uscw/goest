@@ -14,15 +14,18 @@
         {{ end }}
                 
         {{ $lastDate := "00.00." }}
+        {{ $nowDate := now.Format (.Site.Params.dateFormat | default "02.01. ") }}
         {{ range $ds.Reverse  }}
           {{ $evntDate := ( .Date.Format (.Site.Params.dateFormat | default "02.01. ") ) }}
           {{ $evntTime := ( .Date.Format (.Site.Params.dateFormat | default "15:04") ) }}
                 {{ if ( ne $evntDate $lastDate ) }}
                     {{ if ( ne $lastDate "00.00." ) }}
                       </dl>
-                      <h2> {{ index $.Site.Data.days (printf "%d" .Date.Weekday) }}, {{ $evntDate }} </h2>
-                    {{ else }}
+                    {{ end }}
+                    {{ if ( and ( eq $lastDate "00.00." ) ( eq $evntDate $nowDate ) ) }}
                       <h2>  Heute, {{ $evntDate }} </h2>
+                    {{ else }}
+                      <h2> {{ index $.Site.Data.days (printf "%d" .Date.Weekday) }}, {{ $evntDate }} </h2>
                     {{ end }}
 		    <dl>
                     {{ $lastDate = $evntDate }}
