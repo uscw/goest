@@ -1,4 +1,4 @@
-import sys
+
 import events_p3_dt as dt # Deutsches Theater
 import events_p3_jt as jt # Junges Theater
 import events_p3_lm as lm # Lumiere
@@ -55,8 +55,6 @@ if __name__ == '__main__':
     outDirBase = "/home/uschwar1/ownCloud/AC/html/hugo/goest/content/event/"
     if (len(sys.argv) == 2): 
         outDirBase = sys.argv[1]
-        if outDirBase[-1] != "/":
-            boutDirBase += "/"
         
     try:
         events = {}

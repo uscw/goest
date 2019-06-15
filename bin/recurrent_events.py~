@@ -195,10 +195,8 @@ def compileEvents(recurrEvtFile):
 #### main ####
 if __name__ == '__main__':
     baseDir = "/home/uschwar1/ownCloud/AC/html/hugo/goest/content/event/"
-    if (len(sys.argv) == 2):
+    if (len(sys.argv) == 1):
         baseDir = sys.argv[1]
-        if baseDir[-1] != "/":
-            baseDir += "/"
     sourceDir = baseDir + "recurring_templates/"
     targetDir = baseDir + "recurring/"
 

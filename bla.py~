@@ -1,0 +1,9 @@
+import sys
+if __name__ == '__main__':
+    baseDir = "/home/uschwar1/ownCloud/AC/html/hugo/goest/content/event/"
+    if (len(sys.argv) == 1):
+        baseDir = sys.argv[1]
+    sourceDir = baseDir + "recurring_templates/"
+    targetDir = baseDir + "recurring/"
+
+    print(sourceDir)
