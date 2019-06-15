@@ -7,7 +7,8 @@ publishdate:   2019-06-02T00:00:00+01:00
 author:        "Deutsches Theater - x"
 place:         "Deutsches Theater - x"
 URL:           "/2019/06/12/20/00/deutschestheater-x"
-image:         "deutsches-theater-icon.png"
+icon:         "deutsches-theater-icon.png"
+image:         "deutsches-theater-img.jpg"
 locURL:         "https://www.dt-goettingen.de/"
 ---
 

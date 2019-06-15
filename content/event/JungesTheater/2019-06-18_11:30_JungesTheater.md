@@ -7,7 +7,8 @@ publishdate:   2019-06-08T00:00:00+01:00
 author:        "Junges Theater"
 place:         "Junges Theater"
 URL:           "/2019/06/18/11/30/jungestheater"
-image:         "junges-theater-icon.png"
+icon:         "junges-theater-icon.png"
+image:         "junges-theater-img.jpg"
 locURL:         "http://junges-theater.de"
 ---
 
